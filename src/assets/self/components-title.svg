@@ -1,0 +1,131 @@
+<svg id="title_" data-name="title " xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="460" height="52" viewBox="0 0 460 52">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        opacity: 0.5;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3, .cls-8 {
+        fill: #fff45c;
+      }
+
+      .cls-4, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #0e9cff;
+        stroke-width: 1px;
+        filter: url(#filter);
+      }
+
+      .cls-5 {
+        fill: #86cdff;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        stroke: url(#linear-gradient-3);
+      }
+
+      .cls-7 {
+        stroke: url(#linear-gradient-4);
+      }
+
+      .cls-8 {
+        filter: url(#filter-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="26" x2="439" y2="26" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003892"/>
+      <stop offset="1" stop-color="#003892" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="24" y1="468.015" x2="463" y2="468.015" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2ba3ff"/>
+      <stop offset="1" stop-color="#2ba3ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="filter" x="24" y="435" width="27" height="30" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="1.667" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#008cff" flood-opacity="0.5"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="477.078" y1="475" x2="477.078" y2="425" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#008dff"/>
+      <stop offset="0.015" stop-color="#008dff" stop-opacity="0"/>
+      <stop offset="0.464" stop-color="#008dff"/>
+      <stop offset="1" stop-color="#008dff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="468.891" y1="468.375" x2="468.891" y2="431.625" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="aqua"/>
+      <stop offset="0.015" stop-color="aqua" stop-opacity="0"/>
+      <stop offset="0.475" stop-color="aqua"/>
+      <stop offset="1" stop-color="aqua" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="filter-2" x="448" y="433" width="28" height="34" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="3" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#ffb873" flood-opacity="0.91"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="矩形_9" data-name="矩形 9" class="cls-1" y="7" width="439" height="38"/>
+  <path id="矩形_8" data-name="矩形 8" class="cls-2" d="M24,467.025H463V469H24v-1.975Z" transform="translate(-24 -424)"/>
+  <path id="矩形_10" data-name="矩形 10" class="cls-3" d="M24,430H44v2.006H24V430Z" transform="translate(-24 -424)"/>
+  <g transform="translate(-24 -424)" style="fill: none; filter: url(#filter)">
+    <path id="多边形_1" data-name="多边形 1" class="cls-4" d="M37,456.575l-5.834-3.537v-7.075L37,442.425l5.834,3.538v7.075Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-24 -424)" xlink:href="#多边形_1" style="stroke: #0e9cff; filter: none; fill: none"/>
+  <path id="多边形_1_拷贝_2" data-name="多边形 1 拷贝 2" class="cls-5" d="M37.106,452.917l-2.994-1.661v-3.32l2.994-1.661,2.994,1.661v3.32Z" transform="translate(-24 -424)"/>
+  <path id="形状_4_拷贝_2" data-name="形状 4 拷贝 2" class="cls-6" d="M472.473,425.008L483,435.531v27.622l-11.842,11.838" transform="translate(-24 -424)"/>
+  <path id="形状_4_拷贝_2-2" data-name="形状 4 拷贝 2" class="cls-7" d="M465.536,431.629l7.655,7.735v20.305l-8.612,8.7" transform="translate(-24 -424)"/>
+  <path id="多边形_1_拷贝" data-name="多边形 1 拷贝" class="cls-8" d="M458,449.3l6.594,5.728V443.575Z" transform="translate(-24 -424)"/>
+</svg>
